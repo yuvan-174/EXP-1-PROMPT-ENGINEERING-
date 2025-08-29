@@ -8,7 +8,10 @@ Explain the foundational concepts of Generative AI.
 Focusing on Generative AI architectures. (like transformers).
 Generative AI applications.
 Generative AI impact of scaling in LLMs.
-
+```
+Yuvan Sundar S
+212223040250
+```
 ## Algorithm:
 Define Structure – Decide main sections (Introduction, Fundamentals, Applications, Challenges, etc.).
 Collect Content – Write concise explanations under each section.
